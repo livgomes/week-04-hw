@@ -49,7 +49,7 @@ The image below is of the time magazine webpage from 1999, the year the site was
 **Slikati over the years
 
 The contempory artist I chose was Sliikati, who is a Missoula photographer. When comparing his webpage which began in 2011, there was yet again a visual change. The graphics between 2011 and 2017 changed widley. In the present webpage, Slikati has revolving large images of their work. It has a modern clean look to it, that displays very little information on the homepage. The main forcus of the home page displays their work, In order to learn more you must click another link.
-This is different to the 2011 version, as although a large image is seen, the viewer is distracted by the outdated framed graphic. There is also alot more visual blank/wasted space in the 2011 version and most notably all the main links are displayed on the home page. 
+This is different to the 2011 version, as although a large image is seen, the viewer is distracted by the outdated framed graphic. There is also alot more visual blank/wasted space in the 2011 version and most notably all the main links are displayed on the home page.
 ![Slikati 2017](slikati 2017.jpg).
 
 ![Slikati 2011](Slikati 2011.jpg).
