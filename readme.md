@@ -26,3 +26,11 @@ Some examples include;
 **Linking**
 
 A hyperlink is a direct link to another source, this could be a direct source to another area of the same webpage, a link to another webpage, a link to an email address etc.
+
+## Screenshot
+
+![Time Magazine 2017](time magazine 2017.jpg).
+
+![Time Magazine 2006](time magazine 2006.jpg).
+
+![Time magazine 1999](time magazine 1999.jpg).
